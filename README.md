@@ -4,12 +4,8 @@
 
 Me Chamo Amanda Oliveira, trabalhei os últimos 11 anos em navios de cruzeiro, e atualmente estudo Desenvolvimento Web para migrar para a área de TI. 
 
-Minha experiência de quase 20 anos atuando com o público me ajudará no meu desenvolvimento na área que escolhi.
 
-Link do meu linkedin: https://www.linkedin.com/in/amanda-oliveira-20/
-
-Vamos nos conectar? 👋
-
+##
 <center>
     <table align="center">
       <tr>
@@ -21,3 +17,9 @@ Vamos nos conectar? 👋
       </tr>  
     </table>
 </center>
+
+<div> 
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-oliveira-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
+
