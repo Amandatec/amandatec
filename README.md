@@ -19,7 +19,7 @@ Me Chamo Amanda Oliveira, trabalhei os últimos 11 anos em navios de cruzeiro, e
 </center>
 
 <div> 
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-oliveira-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href=https://www.linkedin.com/in/amanda-oliveira-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
