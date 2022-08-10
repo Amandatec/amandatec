@@ -2,7 +2,7 @@
 
 
 
-Me Chamo Amanda Oliveira, trabalhei os últimos 11 anos em navios de cruzeiro, e atualmente estudo Desenvolvimento Web para migrar para a área de TI. 
+Me Chamo Amanda Oliveira, trabalhei os últimos 13 anos em navios de cruzeiro, e atualmente estudo Desenvolvimento Web para migrar para a área de TI. 
 
 
 ##
