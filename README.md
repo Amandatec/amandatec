@@ -2,24 +2,12 @@
 
 
 
-Me Chamo Amanda Oliveira, trabalhei os últimos 13 anos em navios de cruzeiro, e atualmente estudo Desenvolvimento Web para migrar para a área de TI. 
+Atualmente desenvolvendo projetos em javascript com nodejs e react.
+
+Vivência internacional por 13 anos em navios transatlânticos , convivendo diariamente com tripulantes e passageiros estrangeiros. Possuo grande experiência com atendimento ao cliente nacional e internacional, sou resiliente, e tenho boa desenvoltura para trabalhar em equipe e passar meus conhecimentos.
+
+Apaixonada por proporcionar a melhor hospitalidade para os clientes, e por aprender diariamente sobre língua e tecnologia.
 
 
-##
-<center>
-    <table align="center">
-      <tr>
-          <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=amandatec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-          </td>
-          <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatec&layout=compact&hide_border=true&theme=dracula" alt="amandatec" />                   </td>
-      </tr>  
-    </table>
-</center>
-
-<div> 
-    <a href=https://www.linkedin.com/in/amanda-oliveira-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+Git | Github | Javascript | React | Nodejs |
 
