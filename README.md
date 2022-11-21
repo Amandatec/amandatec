@@ -1,13 +1,34 @@
-### Olá 👋
+### Hi, I´m Amanda Oliveira 👋
+
+## 🚀 About me
+
+
+👩‍💻 I´m currently developing projetcts in Javascript with nodejs and react.
+
+
+International experience for 13 years woking in cruise ships, living daily with international crewmembers and guests . I have great experience with customer service for national and international clients, I´m resilient , and I have good teamwork skills.
+
+Passionate about providing the best guest experience  and learning in daily basis about language and technology.
+
+## 🛠Techs & Tools
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 
-Atualmente desenvolvendo projetos em javascript com nodejs e react.
+## Contact me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-Vivência internacional por 13 anos em navios transatlânticos , convivendo diariamente com tripulantes e passageiros estrangeiros. Possuo grande experiência com atendimento ao cliente nacional e internacional, sou resiliente, e tenho boa desenvoltura para trabalhar em equipe e passar meus conhecimentos.
-
-Apaixonada por proporcionar a melhor hospitalidade para os clientes, e por aprender diariamente sobre língua e tecnologia.
-
-
-Git | Github | Javascript | React | Nodejs |
+## GitHub Analytics
+<picture>
+    <source media="(prefers-color-scheme: monokai)" srcset="https://streak-stats.demolab.com?amandatec&theme=dark" />
+    <img  height="180em" src="https://streak-stats.demolab.com?user=amandatec&theme=monokai" />
+</picture>
+<br>
+<br>
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatec&layout=compact&langs_count=7&theme=monokai"/>
 
