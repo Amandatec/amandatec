@@ -31,4 +31,8 @@ Passionate about providing the best guest experience  and learning in daily basi
 <br>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandatec&layout=compact&langs_count=7&theme=monokai"/>
+<br>
+<br>
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandatec&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 
