@@ -36,4 +36,4 @@ Passionate about providing the best guest experience  and learning in daily basi
 </div>
 
 
-
+![Snake animation](https://github.com/amandatec/amandatec/blob/output/github-contribution-grid-snake.svg)
