@@ -3,12 +3,11 @@
 ## 🚀 About me
 
 
-👩‍💻 I´m currently developing projetcts in Javascript with nodejs and react.
+👩‍💻I'm currently working on projects in Javascript with Node.js and React.
 
+During my 13 years of international experience on cruise ships, I interacted daily with international crew members and guests, providing extensive customer service to national and international clients. I am able to handle challenges and overcome obstacles, and I have strong teamwork skills.
 
-International experience for 13 years woking in cruise ships, living daily with international crewmembers and guests . I have great experience with customer service for national and international clients, I´m resilient , and I have good teamwork skills.
-
-Passionate about providing the best guest experience  and learning in daily basis about language and technology.
+I am passionate about providing the best guest experience, and I enjoy continually learning about language and technology."
 
 ## 🛠Techs & Tools
 
